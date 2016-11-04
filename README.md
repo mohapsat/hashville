@@ -1,0 +1,1 @@
+Supports popular hashing methods
